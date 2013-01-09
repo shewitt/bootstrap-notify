@@ -23,6 +23,24 @@
   bottom: 25px;
 }
 
+.notifications.dead-center {
+    left:40%;
+    right: 40%;
+    top: 45%;
+    bottom: 45%;
+    width:20%;
+    height:10%;
+    text-align: center;
+}
+
+.notifications.top-center {
+    left:40%;
+    right: 40%;
+    top: 0px;
+    width:20%;
+    text-align: center;
+}
+
 /* Notification Element */
 .notifications > div {
   position: relative;
